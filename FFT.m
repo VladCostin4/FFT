@@ -18,5 +18,5 @@ function F = FFT(A, m, w)
 
       w0 *= w;
     endfor
-  endif
+  endif %comment
 endfunction
